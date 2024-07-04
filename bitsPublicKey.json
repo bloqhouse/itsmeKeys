@@ -1,0 +1,19 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "e": "AQAB",
+      "use": "sig",
+      "kid": "Bits Itsme Prod",
+      "alg": "RS256",
+      "n": "s59o97wzkNPbP9-m6T2MlMvPUByavRXB8by4HDyhwOdAJXKA0aqVbHwRqEENYllIxe5KEhvNjgU5COA_SctivBzbMCLbdMiLHs8kkoQAhcnsfcE466_y2d6eC04uqMWspjEz19oqKRRySUkEYb9iYdKD0ctbllnPi7zR-jZkEgH1M98GjI4eFPK2cwUAD1gX36JE3-5HGpVSQfShHrHv5Mw4dt6t-hAW-LNta6Ww1kG78OsuinZdYRJgDruiaiFvRQrSIDMr9bMhx1ckVSSN-bKJLUn2tCmJH9iECQq1ZYT0T_ykpN9rREvGm_VcRuWg5F6UaVnhk8Y_YNWmH16mbQ"
+    },
+    {
+      "kty": "RSA",
+      "e": "AQAB",
+      "use": "enc",
+      "kid": "Bits Itsme Prod",
+      "n": "30AAPul0JpiZn1nFYkP3v7x_eNrJJaaJ31_nl8UZ5e5wRfIEJs3DcBbBUmF3kQVDh-YPlHvo1UOVskx-h6e0lSSv7faJMZOqyGBnB67S--u58beRZYDkjK53dyoJv0qz-Ga9i-ZnoEtDnYekcu_0eHt7qZoQDZtycMGtkXoJmUl_stTk--vnoxSN-FMX4aIQ38HgEOqb0Ki062yOkQ6gFWVnZReaXFyUIRWV0ueMo4QR0UEyPE15ss6gm_UenTHIEWHbsKxs8u56hKETnIgIHXdncPiJ11wqhxMWltnyVI2ScRLecXfMbt8OSyCOAT2ZZVdFBnWoBglduH7yt6KLow"
+    }
+  ]
+}
